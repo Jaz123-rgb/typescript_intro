@@ -15,3 +15,4 @@ declare function getSammllPet():fish & Bird
 const Pet = getSammllPet();
 
 Pet.swimm
+
