@@ -11,7 +11,7 @@ var carro = /** @class */ (function () {
     };
     carro.prototype.frenar = function () {
         console.log('Frenar');
-    };
+    }; 
     return carro;
 }());
 var car = new carro('Fotd', '12/12/2020', 12);
