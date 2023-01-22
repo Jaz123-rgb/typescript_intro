@@ -68,4 +68,3 @@ let chooseLen: lenguas = {
 
 console.log(chooseLen.lenguaje('Rust'));
 console.log(chooseLen.tipo('Compilado'))
-
