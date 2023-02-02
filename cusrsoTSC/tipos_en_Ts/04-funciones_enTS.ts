@@ -33,8 +33,7 @@ let SayHola: (ituno: string) => void;
  SayHola = (ituno) => { 
     console.log(`Hola` + ituno);
  }
-
- SayHola(' motherfucker');
+ SayHola(' programer');
 
 
 
