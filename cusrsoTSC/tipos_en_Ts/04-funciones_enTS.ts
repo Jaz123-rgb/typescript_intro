@@ -34,12 +34,4 @@ let SayHola: (ituno: string) => void;
     console.log(`Hola` + ituno);
  }
  SayHola(' programer');
-
-
-
-
-
-
-
-
-    
+   
