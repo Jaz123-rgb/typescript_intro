@@ -24,4 +24,4 @@ var SayHola;
 SayHola = function (ituno) {
     console.log("Hola" + ituno);
 };
-SayHola('motherfucker');
+SayHola(' motherfucker');

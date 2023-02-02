@@ -1,7 +1,7 @@
 // Ae puede definir lo que contendra el array
 
 /* Tipos de datos que puede contener  un arreglos*/
-
+let ins: number[]
 let ids: number[] = [1,2,3,4,5];
 let names: string[] = ['Danny', 'Anna', 'Bazza'];
 let options: boolean[] = [true, false, false]; 
