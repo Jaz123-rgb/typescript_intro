@@ -18,3 +18,7 @@ const person1 = new Person('Danny', false, 1);
 const person2 = new Person('Sarah', true, 6);
 
 console.log(person1.sayHello());
+
+let People: Person[] = [person1, person2]
+
+console.log(People);

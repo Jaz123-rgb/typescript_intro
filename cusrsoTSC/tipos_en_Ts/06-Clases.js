@@ -12,3 +12,5 @@ var Person = /** @class */ (function () {
 var person1 = new Person('Danny', false, 1);
 var person2 = new Person('Sarah', true, 6);
 console.log(person1.sayHello());
+var People = [person1, person2];
+console.log(People);
